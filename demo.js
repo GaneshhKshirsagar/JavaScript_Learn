@@ -1,0 +1,12 @@
+console.log("Ganesh Hanumant Kshirsagar");
+console.log("I am from Pandharpur city");
+console.log("My hobbies are follow");
+console.log("Watching marathi news channel");
+console.log("Playing cricket");
+console.log("Reading news paper");
+console.info("I always take care of my family");
+console.info("Try to make good person in the society");
+console.warn("My english is poore");
+console.warn("Sometime not belive easily on unknown person");
+console.log(50+50);
+console.log(50*50);
