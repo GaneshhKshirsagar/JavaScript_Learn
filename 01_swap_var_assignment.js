@@ -1,0 +1,20 @@
+console.log("Assignment 2");
+var sweety= "Sweety", cutie="Cutie", temp;
+console.log("Before sweep output is="+sweety, cutie);
+temp=sweety;
+sweety=cutie;
+cutie=temp;
+console.log(sweety, cutie);
+console.log("Assignment 3");
+var num1=100,num2=200,num3=300;
+var msg="Before swap the output as follow",
+    msg2="After swapthe element output as follow";
+    console.log(msg);
+console.log(num1,num2,num3);
+console.log(msg2);
+temp=num1;
+num1=num2;
+console.log(num1);
+num2=num3;
+console.log(num2);
+console.log(temp);
